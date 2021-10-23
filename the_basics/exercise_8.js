@@ -1,0 +1,1 @@
+const petNames = ['Sorkie', 'Peppy', 'Kippy', 'Scamp', 'Lemmy', 'Zoe', 'Timmy', 'Toasty']
